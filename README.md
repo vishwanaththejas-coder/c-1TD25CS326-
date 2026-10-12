@@ -1,6 +1,7 @@
 C++ Programs and Outputs
 Program 1: Display Array Elements
-Output:
+Output: 
+
 10 20 30 40 50
 
 Program 2: Sum of Array Elements
